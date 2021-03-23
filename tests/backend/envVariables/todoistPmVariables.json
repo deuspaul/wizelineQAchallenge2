@@ -1,0 +1,29 @@
+{
+	"id": "75d13ffd-3c07-4867-b0a3-733864d2dfcb",
+	"name": "wizeline qaca2",
+	"values": [
+		{
+			"key": "baseURL",
+			"value": "https://api.todoist.com/rest/v1",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "cc1de23216f905ff837a61df35fea928cc02dc46",
+			"enabled": true
+		},
+		{
+			"key": "projectName",
+			"value": "Wizeline QACA2-2",
+			"enabled": true
+		},
+		{
+			"key": "projectID",
+			"value": "2261335942",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-03-22T19:06:30.093Z",
+	"_postman_exported_using": "Postman/8.0.7"
+}
