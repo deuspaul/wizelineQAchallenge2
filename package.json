@@ -1,0 +1,26 @@
+{
+  "name": "wizelinetodoistqachallenge",
+  "version": "1.0.0",
+  "description": "qa challenge 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "newman run ./tests/backend/collection/todoistPmCollection.json -e ./tests/backend/envVariables/todoistPmVariables.json -r htmlextra --reporter-htmlextra-export todoistApiTestsReport.html",
+    "several": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deuspaul/wizelineQAchallenge2.git"
+  },
+  "keywords": [
+    "todoist",
+    "api",
+    "postman",
+    "newman"
+  ],
+  "author": "deuspaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deuspaul/wizelineQAchallenge2/issues"
+  },
+  "homepage": "https://github.com/deuspaul/wizelineQAchallenge2#readme"
+}
